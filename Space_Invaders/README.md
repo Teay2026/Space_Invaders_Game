@@ -12,11 +12,11 @@ This is a Space Invaders game scripted in Python using the `Tkinter` library. Tk
 
 Here are some screenshots of the game:
 
-[<img src="C:\Users\youne\OneDrive\Bureau\Space_Invaders\ScreenShots\Capture d'écran 2024-01-16 180602.png"
+[<img src="https://github.com/Teay2026/Space_Invaders_Game/blob/main/Space_Invaders/ScreenShots/Capture%20d'%C3%A9cran%202024-01-16%20180602.png"
     alt="Home screen" width="270" height="240">]
-[<img src="C:\Users\youne\OneDrive\Bureau\Space_Invaders\ScreenShots\action_screen.png"
+[<img src="https://github.com/Teay2026/Space_Invaders_Game/blob/main/Space_Invaders/ScreenShots/action_screen.png"
     alt="Gameplay screen" width="270" height="240">]
-[<img src="C:\Users\youne\OneDrive\Bureau\Space_Invaders\ScreenShots\gameover_screen.png"
+[<img src="https://github.com/Teay2026/Space_Invaders_Game/blob/main/Space_Invaders/ScreenShots/gameover_screen.png"
     alt="Game over screen" width="270" height="240">]
 
 ## Running the Game
