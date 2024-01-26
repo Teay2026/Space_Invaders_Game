@@ -4,7 +4,7 @@
 
 A project for the CS-DEV course at CPE Lyon.
 
-<h1 align="center"> Space Invader </h1>
+<h1 align="center"> Space Invaders </h1>
 
 **Description:**
 
