@@ -8,7 +8,7 @@ A project for the CS-DEV course at CPE Lyon.
 
 **Description:**
 
-Space Invader is a classic arcade game that pays homage to the iconic Space Invaders title. Developed in Python, this game utilizes the `Tkinter` library for its graphical user interface (GUI). Tkinter is a powerful library in the Python ecosystem, providing a comprehensive set of tools and widgets for creating interactive and visually appealing applications.
+Space Invaders is a classic arcade game that pays homage to the iconic Space Invaders title. Developed in Python, this game utilizes the `Tkinter` library for its graphical user interface (GUI). Tkinter is a powerful library in the Python ecosystem, providing a comprehensive set of tools and widgets for creating interactive and visually appealing applications.
 
 **How the Game Works:**
 
