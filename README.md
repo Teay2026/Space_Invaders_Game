@@ -8,16 +8,18 @@ A project for the CS-DEV course at CPE Lyon.
 
 This is a Space Invaders game scripted in Python using the `Tkinter` library. Tkinter is a standard Python library for creating graphical user interfaces (GUIs). It provides a set of tools and widgets (pre-built graphical components) that allow developers to create windows, dialog boxes, buttons, textboxes, and other elements commonly found in graphical applications.
 
-## Screenshots
+## Screenshots of the game
 
 Here are some screenshots of the game:
+# Home screen
+![Home screen](https://github.com/Teay2026/Space_Invaders_Game/blob/main/Space_Invaders/ScreenShots/Capture%20d'%C3%A9cran%202024-01-16%20180602.png)
 
-[<img src="https://github.com/Teay2026/Space_Invaders_Game/blob/main/Space_Invaders/ScreenShots/Capture%20d'%C3%A9cran%202024-01-16%20180602.png"
-    alt="Home screen" width="270" height="240">]
-[<img src="https://github.com/Teay2026/Space_Invaders_Game/blob/main/Space_Invaders/ScreenShots/action_screen.png"
-    alt="Gameplay screen" width="270" height="240">]
-[<img src="https://github.com/Teay2026/Space_Invaders_Game/blob/main/Space_Invaders/ScreenShots/gameover_screen.png"
-    alt="Game over screen" width="270" height="240">]
+# Gameplay screen
+![Gameplay screen](https://github.com/Teay2026/Space_Invaders_Game/blob/main/Space_Invaders/ScreenShots/action_screen.png)
+
+# Game over screen
+![Gameover screen](https://github.com/Teay2026/Space_Invaders_Game/blob/main/Space_Invaders/ScreenShots/gameover_screen.png)
+
 
 ## Running the Game
 
