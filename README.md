@@ -38,22 +38,20 @@ Collision detection algorithms are implemented to determine when bullets hit the
 
 **Running the Game:**
 
-```python
-# Running the Game
 
-# 1. Clone the GitHub repository.
-# git clone https://github.com/Teay2026/Space_Invaders_Game.git
 
-# 2. Navigate to the project directory.
-# cd Space_Invaders_Game
+-1. Clone the GitHub repository.
 
-# 3. Execute SpaceInvaders.py.
-# python SpaceInvaders.py
+
+-2. Navigate to the project directory.
+
+-3. Execute SpaceInvaders.py.
+
 
 # Controls:
-# - Use the <Left> arrow or the <Right> arrow to move the spaceship left or right.
-# - Fire bullets by pressing the <Space> button to eliminate the enemies.
-# - You cannot fire multiple bullets at a time.
-# - Don't let the **Enemies** come too close to your spaceship.
+- Use the <Left> arrow or the <Right> arrow to move the spaceship left or right.
+- Fire bullets by pressing the <Space> button to eliminate the enemies.
+- You cannot fire multiple bullets at a time.
+- Don't let the **Enemies** come too close to your spaceship.
 
 # Enjoy the game!
