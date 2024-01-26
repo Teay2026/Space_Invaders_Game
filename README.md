@@ -11,13 +11,13 @@ This is a Space Invaders game scripted in Python using the `Tkinter` library. Tk
 ## Screenshots of the game
 
 Here are some screenshots of the game:
-# Home screen
+## Home screen
 ![Home screen](https://github.com/Teay2026/Space_Invaders_Game/blob/main/Space_Invaders/ScreenShots/Capture%20d'%C3%A9cran%202024-01-16%20180602.png)
 
-# Gameplay screen
+## Gameplay screen
 ![Gameplay screen](https://github.com/Teay2026/Space_Invaders_Game/blob/main/Space_Invaders/ScreenShots/action_screen.png)
 
-# Game over screen
+## Game over screen
 ![Gameover screen](https://github.com/Teay2026/Space_Invaders_Game/blob/main/Space_Invaders/ScreenShots/gameover_screen.png)
 
 
